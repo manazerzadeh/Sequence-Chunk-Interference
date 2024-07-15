@@ -11,9 +11,9 @@ The chunking pattern were either '2333' or '3332' grouping each 2 or 3 digit tog
 
 The inter trial intervals were set to 3000ms. Subjects performed the task with their right hand. A total number of six subjects participated in the pilot.
 
-The whole task was performed in one session, consisting of 10 blocks, 5 blocks of training with asynchronous moving window. The aim was to train the subjects to perform the sequence with the specified chunks.
-In the rest 5 blocks, subjects were tested on the whole sequence (the whole sequence being visible to them) an were asked to perform as quickly and accurately as possible.
-The purtubration, i.e. change of a digit randomly at either positions 5, 7, or 9, would happen at this phase.
+The whole task was performed in one session, consisting of 10 blocks, 5 blocks of training with asynchronous moving window. The aim was to train the subjects to perform the sequence with the specified chunks. Each training block had 20 trials.
+In the rest of the 5 blocks, subjects were tested on the whole sequence (the whole sequence being visible to them) an were asked to perform as quickly and accurately as possible.
+The purtubration, i.e. change of a digit randomly at either positions 5, 7, or 9, would happen at this phase. Each test block had 24 trials, 8 of them changed sequence, 8 unchanged, 8 random sequences.
 
 Results of the analysis shows a chunking pattern as expected in the trainig phase. But in the test phase, they abandoned the expected chunking pattern, resulting in the failure of the task.
 
